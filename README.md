@@ -8,7 +8,7 @@ For more up-to-date information on what's being implemented, take a look at our 
 >
 > This project is no longer being worked on. This branch repo only serves to give inspiration to others as a point in time reference, you can see the former code by viewing the [`archive` branch]aws-serverless-airline-booking/tree/archive
 
-![Serverless Airline Booking sample]./media/prototype-web.png
+![Serverless Airline Booking sample](https://github.com/shivamsaini0/aws_project/blob/main/media/prototype-web.png)
 
 ## Deployment
 
@@ -39,11 +39,11 @@ Python and Apache VTL | Provides new and list Bookings. CRUD operations includin
 
 ### Front-end
 
-See more information about our [Front-end, components, routing and convention]
+See more information about our [Front-end, components, routing and convention]https://github.com/shivamsaini0/aws_project/blob/main/media/prototype-frontend.png
 
 **High level infrastructure architecture**
 
-![Serverless Airline Architecture]/media/prototype-architecture.png
+![Serverless Airline Architecture](https://github.com/shivamsaini0/aws_project/blob/main/media/prototype-architecture.png)
 
 ## License Summary
 
